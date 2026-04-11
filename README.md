@@ -1,6 +1,6 @@
 # First-Year-Coding-Journey
 
-This folder contains a collection of my programming foundations and projects, ranging from C study notes to C# console applications and web basics.
+Welcome to my comprehensive engineering vault! This repository documents my progress from basic syntax to advanced algorithmic logic across multiple programming languages.
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -8,14 +8,19 @@ This folder contains a collection of my programming foundations and projects, ra
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📂 Repository Contents
+## 📂 Repository Highlights
 
-### 🔹 C & C++ Fundamentals
-* **Study Guide (`notes.c`):** Detailed notes on C syntax, preprocessor directives, and standard I/O functions.
-* **String Operations (`strings.c`):** Practicing `strcpy`, `strcmp`, and string manipulation techniques.
-* **Matrix Logic (`try2.c`):** Creating and printing 2D matrices based on user input.
-* **Math Algorithms:** Implementation of prime number checks and factorial calculations using functions (`try4.c`, `try5.c`, `prime.c`).
-* **General Basics:** Comprehensive look at C data types, math functions (sqrt, pow), and CLI calculators (`helloworld.c`, `calc.c`).
+### 🔹 C Programming (Algorithms & Logic)
+A deep dive into memory management, math libraries, and procedural logic:
+* **Core Fundamentals (c_fundamentals.c):** Comprehensive guide covering pointers, memory addresses, recursion, math functions (sqrt, pow), and conditional structures.
+* **Matrix Generator (matrix_generator.c):** Implements nested loops to create and print dynamic 2D arrays based on user input.
+* **Math Algorithms (prime.c, factorial_iterative.c):** Functional implementations for prime number checking and iterative factorial calculations.
+* **Data Processing (dynamic_array_average.c, array_average.c):** Handling static and dynamic arrays to calculate averages using custom functions.
+* **Study Resources:** Includes detailed syntax notes (programlama ders notu.c) and string manipulation practices (strings.c).
+
+### 🔹 C++ Essentials
+Transitioning to modern I/O and standard libraries:
+* **C++ Basics (cpp_essentials.cpp):** Exploring std::cin/cout, the string class, logical operators, and constants.
 
 ### 🔹 C# Console Applications
 * **Bank System (`simple_bank_system.cs`):** A functional CLI banking app with balance management and input validation (`TryParse`).
